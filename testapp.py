@@ -1,0 +1,1 @@
+print('this is test app for DodamDos')
